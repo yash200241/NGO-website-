@@ -39,8 +39,8 @@ CREATE TABLE `donation_details` (
 --
 
 INSERT INTO `donation_details` (`name`, `phone_number`, `email`, `amount`) VALUES
-('prathamesh', 1234567890, 'chavanprathamesh136@gmail.com', 123),
-('prathamesh', 1234567890, 'prathamesh@gmail.com', 123);
+('yash', 1234567890, 'yashpednekar60@gmail.com', 123),
+('Vaibhavi', 1234567890, 'vaibhaviiratkar@gmail.com', 123);
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
